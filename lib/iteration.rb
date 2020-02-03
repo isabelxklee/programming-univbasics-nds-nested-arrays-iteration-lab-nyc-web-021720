@@ -16,7 +16,6 @@ end
   # "I love (inner array element 0) and (inner array element 1) on my pizza""
   # As such, there should be a new String for each inner array, or pair
 
-=begin 
 def find_greater_pair(src)
   greater_pair = []
   row_index = 0 
