@@ -37,7 +37,8 @@ end
   # src will be an array of [ [number1, number2], ... [numberN, numberM] ]
   # Produce a new Array that contains the larger number of each of the pairs
   # that are in the inner Arrays
-
+  
+=begin
 def total_even_pairs(src)
   total = 0 
   row_index = 0 
