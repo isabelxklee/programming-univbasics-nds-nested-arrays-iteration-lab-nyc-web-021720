@@ -30,7 +30,8 @@ def find_greater_pair(src)
        end 
     greater_pair.push x
     row_index += 1 
-    end 
+    end
+  greater_pair
 end 
   
   # src will be an array of [ [number1, number2], ... [numberN, numberM] ]
